@@ -1,0 +1,16 @@
+// exemplo sobre idade de votação
+
+//entrada de dados
+
+idade = prompt ('Digite a sua idade:')
+
+//estrutura de condição
+if(idade <16){console.log("Você ainda não pode votar!")
+if (idade > 0){
+if (idade >=16) {
+  
+   if (idade >=65){console.log("Você não precisa mais votar!")
+}
+else console.log("Você deve votar!")
+    }
+}
