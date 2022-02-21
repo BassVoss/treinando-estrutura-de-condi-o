@@ -1,4 +1,4 @@
-# treinando-estrutura-de-condi-o
+# treinando-estrutura-de-condicao
 Nesse exercício o objetivo era treinar algumas possibilidades simples do uso de If e Else
 
 Em mais um exercício da faculdade o professor passou uma atividade onde simulamos um programa eleitoral
